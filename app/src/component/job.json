@@ -1,0 +1,44 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "job_title": "UX UI Designer",
+            "company_title": "Great Vibes - Information Technology",
+            "address": "Chennai, Tamilnadu, India (In-office)",
+            "time": "9.00 am - 5.00 pm IST",
+            "experience":"1 - 2 years",
+            "salary": "30,000 - 60,000 / Month",
+            "employee": "51-200"
+        },
+        {
+            "id": 2,
+            "job_title": "Developer",
+            "company_title": "Great Vibes - Information Technology",
+            "address": "Chennai, Tamilnadu, India (In-office)",
+            "time": "9.00 am - 5.00 pm IST",
+            "experience":"1 - 2 years",
+            "salary": "30,000 - 60,000 / Month",
+            "employee": "51-200"
+        },
+        {
+            "id": 3,
+            "job_title": "Interaction Designer",
+            "company_title": "Great Vibes - Information Technology",
+            "address": "Chennai, Tamilnadu, India (In-office)",
+            "time": "9.00 am - 5.00 pm IST",
+            "experience":"1 - 2 years",
+            "salary": "30,000 - 60,000 / Month",
+            "employee": "51-200"
+        },
+        {
+            "id": 4,
+            "job_title": "SEO Analyst",
+            "company_title": "Great Vibes - Information Technology",
+            "address": "Chennai, Tamilnadu, India (In-office)",
+            "time": "9.00 am - 5.00 pm IST",
+            "experience":"1 - 2 years",
+            "salary": "30,000 - 60,000 / Month",
+            "employee": "51-200"
+        }
+    ]
+}
